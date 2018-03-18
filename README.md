@@ -1,4 +1,3 @@
-# Axway Excercise
 
 Underlying architecture:
 
