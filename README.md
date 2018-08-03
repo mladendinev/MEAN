@@ -4,8 +4,8 @@ Underlying architecture:
 ![alt text](https://image.ibb.co/dTJL9R/Untitled_Diagram2.png)
 
 The server has two endpoints currently approachable at:
-  - http://localhost:8080/axway/weather access weather information for all cities Paris, London, Sofia, Madrid, Bucharest
-  - http://localhost:8080/axway/weather/city access weather information for one city
+  - http://localhost:8080/weather access weather information for all cities Paris, London, Sofia, Madrid, Bucharest
+  - http://localhost:8080/weather/city access weather information for one city
 
 ### Prerequisites
  - Mongo
